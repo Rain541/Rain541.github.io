@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on My New Hugo Project</title>
+		<link>https://example.org/posts/</link>
+		<description>Recent content in Posts on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 16 Jul 2026 13:59:10 +0800</lastBuildDate>
+		
+			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Secend Article</title>
+				<link>https://example.org/posts/secend-article/</link>
+				<pubDate>Thu, 16 Jul 2026 13:59:10 +0800</pubDate>
+				<guid>https://example.org/posts/secend-article/</guid>
+				<description>&lt;h1 id=&#34;2026年7月16日这次和上次不一样的vs-code样子希望能成功&#34;&gt;2026年7月16日，这次和上次不一样的VS code样子，希望能成功&lt;/h1&gt;</description>
+			</item>
+	</channel>
+</rss>
